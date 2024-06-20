@@ -1,25 +1,44 @@
-.lista{
-    
-    background-color:rgb(29, 8, 8);
+.lista { 
     font-size: 14pt;
-    color: rgb(255, 255, 255);
     text-align: center;
 }
-th{
-    padding-inline-end: 2px;
+
+th {
+    padding-inline-end: 10px;
 }
+
+.table {
+    width: 3em;
+}
+
+#titulo {
+    background-color: rgba(5, 104, 5, 0.646);
+}
+
 
 #Tabela{
     color: rgb(0, 0, 0);
-    background-color: rgb(30, 255, 0);
+    background-color: rgba(20, 79, 12, 0.468);
 }
 
-.imagem{
-    width: 200px;
-    height: 150px;
-}
-body{
-    background-color: black;
+body {
+    background-color: rgba(110, 112, 128, 0.082);
     margin-top: 1%;
     margin-left: 35%;
+}
+
+.g6 {
+    background-color: rgba(0, 0, 255, 0.363);
+}
+
+.liberta {
+    background-color: rgba(202, 202, 0, 0.425);
+}
+
+.sul-america {
+    background-color: rgba(153, 205, 50, 0.411);
+}
+
+.rebaixamento {
+    background-color: rgba(197, 6, 6, 0.352);
 }
